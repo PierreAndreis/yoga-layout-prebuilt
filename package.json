@@ -32,5 +32,6 @@
 		"ignores": [
 			"yoga-layout"
 		]
-	}
+	},
+	"dependencies": {}
 }
